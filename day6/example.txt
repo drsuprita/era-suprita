@@ -1,0 +1,11 @@
+welcome to AIML internship 2026.
+python file handling.
+ This is a new line.
+ This is a new line.
+ This is a new line.
+ This is a new line.
+ This is a new line.
+ This is a new line.
+ This is a new line.
+ This is a new line.
+ This is a new line.
